@@ -80,8 +80,9 @@
 
 
 .space{
-	 word-spacing: 50em;
-	 
+	word-spacing: 50em;
+	margin-left: 15%;
+        margin-right: 15%;
 }
 
 

@@ -4,6 +4,8 @@
 	margin:0;
 }
 
+hr{margin:7.5  1;}
+
 .nav {
 	border-bottom: 2.5px solid #a0138e;
 	display: flex;

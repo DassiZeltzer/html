@@ -69,7 +69,7 @@ h3{
 	background-color: rgba(25,25,25);
 	padding-bottom: 75px;
 	padding-top: 70px;
-    align-items: center;
+   	align-items: center;
 	justify-content: center;
 }
 
@@ -115,8 +115,7 @@ h3{
   background-color: #E3F2F3;
 }
 
-.boxgrey {
-   
+.boxgrey { 
   background-color: rgb(103 126 127) ;
   padding: 8px;
   margin: 15px
@@ -204,7 +203,7 @@ h3{
 }
 
 img{
-	width:200px;
+	width:190px;
 
 }
 

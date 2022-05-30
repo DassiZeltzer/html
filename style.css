@@ -1,8 +1,8 @@
 .masterPage {
-    left: 0;
-    margin-left: 0;
-    width: 100%;
-    min-width: 980px;
+   	left: 0;
+  	margin-left: 0;
+  	width: 100%;
+  	min-width: 980px;
 	font-family: Arial,Helvetica,sans-serif;
 	font-size: 12px;
 	margin:0;
@@ -88,57 +88,53 @@ h3{
 }
 
 .rowgry {
-  display:felx;
-  background-color:  rgba(25,25,25);
-  padding: 20px;
+	 display:felx;
+	 background-color:  rgba(25,25,25);
+	 padding: 20px;
 }
 
 
 
 .rowblack {  
-  display: flex;
-  flex-wrap: wrap;
-  background-color: black;
+	 display: flex;
+	 flex-wrap: wrap;
+	 background-color: black;
 }
 
 
 .rowimgblack {  
-  display: flex;
-  background-color: black;
-  justify-content: center;
+	 display: flex;
+	 background-color: black;
+	 justify-content: center;
 }
 
 
 .rowlightblue {  
-  display: flex;
-  flex-wrap: wrap;
-  background-color: #E3F2F3;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #E3F2F3;
 }
 
 .boxgrey { 
-  background-color: rgb(103 126 127) ;
-  padding: 6px;
-  margin: 12px
+ 	background-color: rgba(25,25,25);
+	padding: 10px;
+	margin: 15px;
 }
-
-
 
 #box {
-  flex: 20%;
-  background-color: #f7f2f200;
-  margin: 35px;
-  height:300px;
-  box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+	flex: 20%;
+	background-color: #f7f2f200;
+	margin: 35px;
+	height:300px;
+ 	box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
 }
 
-
 .imgproject{
-    display: block;
-    margin: auto;
-    padding-top: 50px;
-    padding-bottom: 30px;
-    width: 50px;
-  
+ 	display: block;
+ 	margin: auto;
+	padding-top: 50px;
+ 	padding-bottom: 30px;
+  	width: 50px;
 }
 
 .middle1{
@@ -194,10 +190,6 @@ h3{
 }
 
 
-
-
-
-
 .space{
 	 word-spacing: 650px;
 }
@@ -233,9 +225,6 @@ img{
 	align-items: center;
     margin: auto;
 }
-
-
-
 
 .container {
   position: relative;
